@@ -150,8 +150,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/whatsdd/subdomain-port-scanner/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/whatsdd/subdomain-port-scanner/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/whatsdd/Subdomain-port-scanner-passive/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/whatsdd/Subdomain-port-scanner-passive/discussions)
 - 📧 **Email**: find me on LinkedIn
 - 📧 **Homepage**: [Ahmad.science my homepage](https://ahmad.science/) 
 
