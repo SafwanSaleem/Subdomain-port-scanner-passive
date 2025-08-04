@@ -1,13 +1,13 @@
 
 
-# 🔍 Subdomain Discovery & Port Scanner
+# 🔍 Passive Subdomain Discovery & Port Scanner
 
-A  bash script for passive reconnaissance that combines certificate transparency logs with Shodan's InternetDB to discover subdomains and enumerate open ports - completely free and no API keys required!
-
+A  bash script for passive reconnaissance that combines AnubisDB + certificate transparency logs with Shodan's InternetDB to discover subdomains and enumerate open ports - passive, free and no API keys required!
+A fat yool for recon when you can not run port scan or brute force sub domains
 
 ## 🚀 Features
 
-- **🔒 Certificate Transparency Discovery**: Uses crt.sh to find subdomains from SSL certificate logs
+- **🔒 Certificate Transparency Discovery**: Uses crt.sh and AnubisDB to find subdomains from SSL certificate logs
 - **🌐 DNS Resolution**: Resolves all discovered subdomains to IP addresses
 - **🔓 Port Enumeration**: Leverages Shodan's free InternetDB for open port discovery
 - **🛡️ Vulnerability Detection**: Identifies known CVEs associated with discovered services
@@ -121,7 +121,7 @@ Contributions are welcome! Here's how you can help:
 5. 🔄 Open a Pull Request
 
 ### Ideas for Contributions
-- [ ] Additional subdomain enumeration sources
+- [ ] Add subdomain enumeration sources
 - [ ] DNS brute-force functionality
 - [ ] JSON output format
 - [ ] Integration with other passive reconnaissance tools
