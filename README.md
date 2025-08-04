@@ -25,7 +25,7 @@ The script automatically checks for dependencies and provides installation instr
 brew install curl jq bind
 ```
 
-### Ubuntu/Debian
+### Kali/Ubuntu/Debian
 ```bash
 sudo apt-get update
 sudo apt-get install curl jq dnsutils
@@ -42,6 +42,10 @@ sudo yum install curl jq bind-utils
 # Clone the repository
 git clone https://github.com/yourusername/subdomain-port-scanner.git
 cd subdomain-port-scanner
+
+# Confrim Checking dependencies are installed 
+sudo apt-get update
+sudo apt-get install curl jq dnsutils
 
 # Make the script executable
 chmod +x subdomain_scanner.sh
