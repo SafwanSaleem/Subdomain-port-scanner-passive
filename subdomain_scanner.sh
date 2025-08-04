@@ -49,7 +49,12 @@ check_dependencies() {
     if [ ${#missing_deps[@]} -ne 0 ]; then
         print_error "Missing dependencies: ${missing_deps[*]}"
         print_status "Install missing dependencies:"
+        print_status "Mac:"
         print_status "brew install curl jq bind"
+        print_status "Kali/Ubuntu/Debian:"
+        print_status "sudo apt-get update"
+        print_status "sudo apt-get install curl jq dnsutils"
+
         exit 1
     fi
     
@@ -306,7 +311,6 @@ usage() {
     echo ""
     echo "Examples:"
     echo "  $0 example.com"
-    echo "  SHODAN_API_KEY=your_key $0 example.com"
     echo ""
     echo "The script will create a timestamped directory with results."
     exit 1
