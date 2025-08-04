@@ -3,7 +3,7 @@
 # 🔍 Passive Subdomain Discovery & Port Scanner
 
 A  bash script for passive reconnaissance that combines AnubisDB + certificate transparency logs with Shodan's InternetDB to discover subdomains and enumerate open ports - passive, free and no API keys required!
-A fat yool for recon when you can not run port scan or brute force sub domains
+A fsat tool for recon when you can not run port scan or brute force sub domains. Feel free to improve this concept.
 
 ## 🚀 Features
 
