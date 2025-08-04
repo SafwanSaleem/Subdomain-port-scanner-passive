@@ -150,9 +150,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/subdomain-port-scanner/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/subdomain-port-scanner/discussions)
-- 📧 **Email**: your.email@example.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/whatsdd/subdomain-port-scanner/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/whatsdd/subdomain-port-scanner/discussions)
+- 📧 **Email**: find me on LinkedIn
+- 📧 **Homepage**: [Ahmad.science my homepage](https://ahmad.science/) 
 
 ## ⭐ Star History
 
